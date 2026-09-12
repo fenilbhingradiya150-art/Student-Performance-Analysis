@@ -144,3 +144,43 @@ Student-Performance-Analysis/
 | `Student_Performance_Presentation.pptx` | Project presentation |
 | `Student_Performance_Report.pdf` | Detailed project report |
 | `README.md` | Project documentation |
+
+## ▶️ How to Run the Project
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/fenilbhingradiya150-art/Student-Performance-Analysis.git
+```
+
+### 2. Navigate to the Project Directory
+
+```bash
+cd Student-Performance-Analysis
+```
+
+### 3. Install Required Libraries
+
+```bash
+pip install pandas numpy matplotlib seaborn scikit-learn jupyter
+```
+
+### 4. Launch Jupyter Notebook
+
+```bash
+jupyter notebook
+```
+
+### 5. Open the Notebook
+
+Open:
+
+```text
+Student_Performance_Analysis.ipynb
+```
+
+Run the notebook cells sequentially to reproduce the analysis.
+
+### 6. Dataset
+
+Make sure `student_performance.csv` is present in the same project directory as the notebook.
