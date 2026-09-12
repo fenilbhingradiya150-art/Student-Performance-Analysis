@@ -92,3 +92,31 @@ The dataset contains missing values in the following columns:
 
 - Demonstrated the concepts of overfitting and underfitting.
 - Compared training and testing performance using Linear Regression and Decision Tree models.
+
+## 📈 Key Results & Insights
+
+- **Dataset Size:** 1,000 student records with 12 attributes.
+- **Average Total Marks:** approximately 199.78.
+- **Average Percentage:** approximately 66.59%.
+- **Average Study Hours:** approximately 9.84 hours.
+- **Percentage Standard Deviation:** approximately 12.86.
+- **Minimum Percentage:** approximately 17.33%.
+
+### Correlation Insights
+
+The analysis found positive relationships between individual subject marks and overall Percentage:
+
+| Subject | Correlation with Percentage |
+|---|---:|
+| Mathematics | 0.53 |
+| Science | 0.56 |
+| English | 0.47 |
+
+Science showed the strongest correlation with overall Percentage among the three subjects analyzed.
+
+### Regression Insights
+
+- Linear Regression was used to study the relationship between Mathematics marks and Percentage.
+- The model produced a slope of approximately **0.386** and an intercept of approximately **39.254**.
+- For a Mathematics score of **90**, the model predicted a Percentage of approximately **74.01%**.
+- A separate regression model using **StudyHours** to predict Percentage achieved an R² score of approximately **-0.004** and an MAE of approximately **9.49**.
