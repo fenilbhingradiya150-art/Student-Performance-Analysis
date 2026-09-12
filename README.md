@@ -201,6 +201,6 @@ The following project resources are included in this repository:
 
 Aspiring Software Engineer | Full-Stack Web Developer | C++ & DSA
 
-- 💼 LinkedIn: [Connect with me](linkedin.com/in/fenil-bhingradiya)
-- 🐙 GitHub: [Visit my GitHub](https://github.com/fenilbhingradiya150-art)
+- 💼 LinkedIn: [linkedin.com/in/fenil-bhingradiya]
+- 🐙 GitHub: [https://github.com/fenilbhingradiya150-art]
 - 📧 Email: fenilbhingradiya150@gmail.com
