@@ -1,4 +1,4 @@
-<img width="1125" height="876" alt="image" src="https://github.com/user-attachments/assets/77c5201a-6828-4a88-b5de-4ec3a21bd6ce" /># 📊 Student Performance Analysis
+# 📊 Student Performance Analysis
 
 ## 📌 Project Overview
 
