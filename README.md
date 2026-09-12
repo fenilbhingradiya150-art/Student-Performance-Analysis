@@ -53,3 +53,42 @@ The dataset contains missing values in the following columns:
 - `science` — 48 missing values
 - `english` — 49 missing values
 - `sports` — 50 missing values
+
+## 🔍 Analysis Performed
+
+### 1. Data Loading & Preprocessing
+
+- Loaded the student performance dataset using Pandas.
+- Inspected the dataset structure, columns, data types, and records.
+- Identified missing values in academic and extracurricular attributes.
+- Prepared the data for statistical and visualization-based analysis.
+
+### 2. Exploratory Data Analysis (EDA)
+
+- Examined the distribution of student percentages.
+- Used histograms to understand percentage distribution.
+- Used box plots to identify the spread and possible outliers.
+- Analyzed relationships between academic subjects and overall percentage.
+
+### 3. Statistical Analysis
+
+- Calculated descriptive statistics such as mean, minimum, maximum, and standard deviation.
+- Analyzed covariance between variables.
+- Performed correlation analysis to identify relationships between academic subjects and percentage.
+
+### 4. Correlation Analysis
+
+- Created a correlation matrix for numerical variables.
+- Visualized correlations using a heatmap.
+- Studied the relationship between Mathematics, Science, English, and overall Percentage.
+
+### 5. Regression Analysis
+
+- Applied Linear Regression to analyze the relationship between Mathematics marks and Percentage.
+- Used StudyHours as an independent variable to predict student Percentage.
+- Evaluated the regression model using R² and Mean Absolute Error (MAE).
+
+### 6. Model Evaluation
+
+- Demonstrated the concepts of overfitting and underfitting.
+- Compared training and testing performance using Linear Regression and Decision Tree models.
