@@ -1,5 +1,23 @@
 # 📊 Student Performance Analysis
 
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-orange)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-Machine%20Learning-F7931E)
+
+## 📑 Table of Contents
+
+- [Project Overview](#-project-overview)
+- [Objectives](#-objectives)
+- [Technologies & Libraries](#️-technologies--libraries)
+- [Dataset](#-dataset)
+- [Analysis Performed](#-analysis-performed)
+- [Key Results & Insights](#-key-results--insights)
+- [Project Structure](#-project-structure)
+- [How to Run the Project](#️-how-to-run-the-project)
+- [Reports & Resources](#-reports--resources)
+- [Author](#️-author)
+
 ## 📌 Project Overview
 
 Student Performance Analysis is a Python-based data analysis project focused on exploring student academic performance through data preprocessing, Exploratory Data Analysis (EDA), statistical analysis, data visualization, correlation analysis, and regression modeling.
