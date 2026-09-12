@@ -194,3 +194,13 @@ The following project resources are included in this repository:
 - 📄 **[Project Report](./Student_Performance_Report.pdf)** — Detailed project documentation.
 - 📑 **[Project Presentation](./Student_Performance_Presentation.pptx)** — Project presentation.
 - 📁 **[Dataset](./student_performance.csv)** — Student performance dataset.
+
+## 👨‍💻 Author
+
+### Fenil Bhingradiya
+
+Aspiring Software Engineer | Full-Stack Web Developer | C++ & DSA
+
+- 💼 LinkedIn: [Connect with me](linkedin.com/in/fenil-bhingradiya)
+- 🐙 GitHub: [Visit my GitHub](https://github.com/fenilbhingradiya150-art)
+- 📧 Email: fenilbhingradiya150@gmail.com
