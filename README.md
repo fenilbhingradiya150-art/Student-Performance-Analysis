@@ -184,3 +184,13 @@ Run the notebook cells sequentially to reproduce the analysis.
 ### 6. Dataset
 
 Make sure `student_performance.csv` is present in the same project directory as the notebook.
+
+## 📚 Reports & Resources
+
+The following project resources are included in this repository:
+
+- 📓 **[Jupyter Notebook](./Student_Performance_Analysis.ipynb)** — Complete analysis and implementation.
+- 📊 **[EDA Report](./EDA_Report.html)** — Exploratory Data Analysis report.
+- 📄 **[Project Report](./Student_Performance_Report.pdf)** — Detailed project documentation.
+- 📑 **[Project Presentation](./Student_Performance_Presentation.pptx)** — Project presentation.
+- 📁 **[Dataset](./student_performance.csv)** — Student performance dataset.
