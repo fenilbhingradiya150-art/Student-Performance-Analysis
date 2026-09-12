@@ -14,3 +14,12 @@ The project analyzes a dataset containing **1,000 student records and 12 attribu
 - Visualize important patterns and distributions in the dataset.
 - Apply correlation and regression analysis.
 - Evaluate the relationship between study hours and percentage.
+
+## 🛠️ Technologies & Libraries
+
+- **Python** — Programming language
+- **Pandas** — Data manipulation and analysis
+- **Matplotlib** — Data visualization
+- **Seaborn** — Statistical data visualization
+- **Scikit-learn** — Regression and machine learning
+- **Jupyter Notebook** — Interactive data analysis
