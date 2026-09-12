@@ -120,3 +120,27 @@ Science showed the strongest correlation with overall Percentage among the three
 - The model produced a slope of approximately **0.386** and an intercept of approximately **39.254**.
 - For a Mathematics score of **90**, the model predicted a Percentage of approximately **74.01%**.
 - A separate regression model using **StudyHours** to predict Percentage achieved an R² score of approximately **-0.004** and an MAE of approximately **9.49**.
+
+## 📂 Project Structure
+
+```text
+Student-Performance-Analysis/
+│
+├── EDA_Report.html
+├── README.md
+├── Student_Performance_Analysis.ipynb
+├── Student_Performance_Presentation.pptx
+├── Student_Performance_Report.pdf
+└── student_performance.csv
+```
+
+### 📄 File Description
+
+| File | Description |
+|---|---|
+| `Student_Performance_Analysis.ipynb` | Main Jupyter Notebook containing the complete analysis |
+| `student_performance.csv` | Student performance dataset |
+| `EDA_Report.html` | HTML version of the exploratory data analysis report |
+| `Student_Performance_Presentation.pptx` | Project presentation |
+| `Student_Performance_Report.pdf` | Detailed project report |
+| `README.md` | Project documentation |
